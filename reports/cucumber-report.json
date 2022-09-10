@@ -1,0 +1,69 @@
+[
+  {
+    "elements": [
+      {
+        "id": "as-a-makemytrip-customer,-i-should-be-able-to-navigate-to-landing-page.;customer-is-displayed-with-makemytrip.com-home-page",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Customer is displayed with MakeMyTrip.com home page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I am on the \"makeMyTripHome\" page",
+            "result": {
+              "status": "passed",
+              "duration": 3611649830
+            },
+            "line": 5,
+            "match": {
+              "location": "/Users/ragu/workspace/myAutomation/step-definitions/mmtSteps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see \"makeMyTripLogo\"",
+            "result": {
+              "status": "passed",
+              "duration": 1038440528
+            },
+            "line": 6,
+            "match": {
+              "location": "/Users/ragu/workspace/myAutomation/step-definitions/mmtSteps.js:9"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 249113722
+            },
+            "hidden": true,
+            "match": {
+              "location": "/Users/ragu/workspace/myAutomation/runtime/world.js:250"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@MakeMyTrip",
+            "line": 3
+          },
+          {
+            "name": "@mmtHomePage",
+            "line": 3
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "as-a-makemytrip-customer,-i-should-be-able-to-navigate-to-landing-page.",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "As a MakeMyTrip customer, I should be able to navigate to landing page.",
+    "tags": [],
+    "uri": "/Users/ragu/workspace/myAutomation/features/makemytripHome.feature"
+  }
+]

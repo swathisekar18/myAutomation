@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="as-a-makemytrip-customer,-i-should-be-able-to-navigate-to-landing-page.;customer-is-displayed-with-makemytrip.com-home-page" tests="2" failures="0" skipped="0">
+        <properties>
+            <property name="@MakeMyTrip" value="true">
+            </property>
+            <property name="@mmtHomePage" value="true">
+            </property>
+            <property name="URI" value="/Users/ragu/workspace/myAutomation/features/makemytripHome.feature">
+            </property>
+        </properties>
+        <testcase name="Given I am on the &quot;makeMyTripHome&quot; page" classname="as-a-makemytrip-customer,-i-should-be-able-to-navigate-to-landing-page.;customer-is-displayed-with-makemytrip.com-home-page" time="3.61164983">
+        </testcase>
+        <testcase name="Then I should see &quot;makeMyTripLogo&quot;" classname="as-a-makemytrip-customer,-i-should-be-able-to-navigate-to-landing-page.;customer-is-displayed-with-makemytrip.com-home-page" time="1.038440528">
+        </testcase>
+    </testsuite>
+</testsuites>
